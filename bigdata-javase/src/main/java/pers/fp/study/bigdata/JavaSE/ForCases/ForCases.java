@@ -16,6 +16,12 @@ public class ForCases {
         PrintIsoscelesTriangle(ch,high);
         PrintHollowIsoscelesTriangles(ch,high);
 
+        /**
+         *
+         *  我 做了修改
+         *
+         */
+
     }
 
     public static void PrintRightTriangle ( char ch, int high ){  //打印直角三角形
