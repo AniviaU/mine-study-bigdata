@@ -15,17 +15,6 @@ public class ForCases {
         PrintRightTriangle(ch,high);
         PrintIsoscelesTriangle(ch,high);
         PrintHollowIsoscelesTriangles(ch,high);
-        /**
-         *
-         *  xiaoa 做了修改
-         *
-         */
-
-        /**
-         *
-         *  我 做了修改
-         *
-         */
 
     }
 
