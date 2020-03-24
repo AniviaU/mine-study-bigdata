@@ -12,9 +12,9 @@ public class ForCases {
         char ch = '*';
         int high = 5;
 
-//        PrintRightTriangle(ch,high);
-//        PrintIsoscelesTriangle(ch,high);
-//        PrintHollowIsoscelesTriangles(ch,high);
+        PrintRightTriangle(ch,high);
+        PrintIsoscelesTriangle(ch,high);
+        PrintHollowIsoscelesTriangles(ch,high);
 
     }
 
@@ -128,5 +128,4 @@ public class ForCases {
     public static void PrintHollowRhombus (){  //打印空心菱形
         //待开发
     }
-
 }
