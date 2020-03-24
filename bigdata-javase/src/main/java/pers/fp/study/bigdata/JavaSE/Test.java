@@ -1,4 +1,4 @@
-package pers.fp.study.bagdata.javase;
+package pers.fp.study.bigdata.JavaSE;
 
 /**
  * @author fengpeng
